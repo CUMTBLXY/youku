@@ -8,6 +8,7 @@
 	width: 100%;
 	padding-top: 21px;
 	background-color: #FFFFFF;
+	min-width: 1450px;
 }
 
 .header .header_left {
