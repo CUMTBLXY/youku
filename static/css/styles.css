@@ -322,3 +322,33 @@ t;}
   background: red;
   display: inline-block;
 }
+.scd .scd-card {
+	height: 210px;
+	background: #ffffff;
+	margin: 30px 7% 30px;
+	padding: 20px;
+	width: 1300px;
+  box-shadow: 0 0 8px 1px #e4e5e6;
+}
+.scd .scd-card .stitle {
+  height: 36px;
+  background: red;
+  margin-bottom: 20px;
+}
+.scd .scd-card .scd-card-pic {
+  height: 154px;
+  background: #ffffff;
+}
+.scd .scd-card .scd-card-pic .scpf {
+  width: 200px;
+  height: 154px;
+  background: red;
+  margin-right: 16px;
+  display: inline-block;
+}
+.scd .scd-card .scd-card-pic .scps {
+  width: 200px;
+  height: 154px;
+  background: red;
+  display: inline-block;
+}
