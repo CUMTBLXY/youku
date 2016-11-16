@@ -1,6 +1,6 @@
 .body {
 	margin: 0;
-	background-color: #f6f6f6;
+	background-color: #f1f2f3;
 }
 
 .header {
@@ -62,7 +62,6 @@ a:hover {
 .header .header_center .nav_center .curr a{
 		color: #ffffff;
 }
-
 .header .header_center_msg {
 	position: relative;
 	display: inline-block;
@@ -73,7 +72,6 @@ a:hover {
 .header .header_center_msg div {
 	float: left;
 	display: block;
-
 }
 .header .header_center_msg .login {
 	width: 56px;
@@ -179,6 +177,7 @@ t;}
     background-color: #FFF;
     color: #555;
 	padding-left: 7%;
+  min-width: 1400px;
 }
 .header .nav .navtitle a {
 	color: #555555;
@@ -208,18 +207,119 @@ t;}
 	float: right;
 	margin-right: 10%;
 }
-.fcard {
-	margin: 30px 0;
-	padding: 30px;
-	width: 100%;
-	height: 400px;
-	background: red;
+.pic-card .top-pic {
+	margin: 30px 7% 30px;
+	padding: 20px;
+	width: 1300px;
+	height: 370px;
+	background: #ffffff;
+  box-shadow: 0 0 8px 1px #e4e5e6;
 }
-.fcard .fscard {
+.pic-card .top-pic .fstbox {
 	width: 420px;
-	height: 240px;
-	background: url("../image/fst.jpg");
+	height: 370px;
+  display: inline-block;
+	margin-right: 15px;
+  margin-top: 0;
 }
-/*.dd {
-	line-height: 40px;
-}*/
+.pic-card .top-pic .scdbox {
+  width: 200px;
+  height: 370px;
+  display: inline-block;
+	margin-right: 15px;
+}
+.pic-card .top-pic .thrbox {
+  width: 200px;
+  height: 370px;
+  display: inline-block;
+	margin-right: 15px;
+}
+.pic-card .top-pic .forbox {
+	width: 420px;
+	height: 370px;
+  display: inline-block;
+  background: yellow;
+}
+.pic-card .top-pic .fstbox .fstbox-top {
+  width: 420px;
+  height: 240px;
+  background: red;
+  margin-bottom: 20px;
+}
+.pic-card .top-pic .fstbox .fstbox-bottom-f {
+  width: 200px;
+  height: 110px;
+  background: red;
+  display: inline-block;
+  margin-right: 15px;
+}
+.pic-card .top-pic .fstbox .fstbox-bottom-s {
+  width: 200px;
+  height: 110px;
+  background: red;
+  display: inline-block;
+}
+.pic-card .top-pic .scdbox .scdbox-top {
+  width: 200px;
+  height: 110px;
+  margin-bottom: 20px;
+  background: red;
+}
+
+.pic-card .top-pic .scdbox .scdbox-mid {
+  width: 200px;
+  height: 110px;
+  background: red;
+  margin-bottom: 20px;
+}
+.pic-card .top-pic .scdbox .scdbox-bot {
+  width: 200px;
+  height: 110px;
+  background: red;
+}
+.pic-card .top-pic .thrbox .thrbox-top {
+  width: 200px;
+  height: 110px;
+  margin-bottom: 20px;
+  background: red;
+}
+.pic-card .top-pic .thrbox .thrbox-mid {
+  width: 200px;
+  height: 110px;
+  margin-bottom: 20px;
+  background: red;
+}
+.pic-card .top-pic .thrbox .thrbox-bot {
+  width: 200px;
+  height: 110px;
+  background: red;
+}
+.pic-card .top-pic .forbox .forbox-top {
+  width: 420px;
+  height: 110px;
+  margin-bottom: 20px;
+  background: red;
+}
+.pic-card .top-pic .forbox .forbox-left {
+  width: 200px;
+  height: 240px;
+  margin-right: 15px;
+  display: inline-block;
+}
+.pic-card .top-pic .forbox .forbox-left-top {
+  width: 200px;
+  height: 110px;
+  background: red;
+  margin-bottom: 20px;
+}
+.pic-card .top-pic .forbox .forbox-left-bot {
+  width: 200px;
+  height: 110px;
+  background: red;
+}
+.pic-card .top-pic .forbox .forbox-right {
+  width: 200px;
+  height: 240px;
+  background: red;
+  display: inline-block;
+}
