@@ -242,62 +242,102 @@ t;}
 .pic-card .top-pic .fstbox .fstbox-top {
   width: 420px;
   height: 240px;
-  background: red;
+  background: url("../image/fstbox-top.jpg");
   margin-bottom: 20px;
+  background-size: cover;
+}
+.pic-card .top-pic .fstbox .fstbox-top p {
+  position: relative;
+  top: 210px;
+  padding-left: 20px;
+  font-size: 16px;
+  display: inline;
+  color: #ffffff;
+}
+.pic-ad {
+  position: relative;
+  top: 200px;
+  color: #ffffff;
+  font-size: 13px;
+  overflow: hidden;
+  padding-left: 8px;
+}
+.pic-font {
+  position: relative;
+  top: 85px;
+  color: #ffffff;
+  font-size: 13px;
+  overflow: hidden;
+  text-align: center;
+  padding-left: 8px;
+  display: inline;
+}
+.pic-font-t {
+  position: relative;
+  top: 85px;
+  color: #ffffff;
+  padding-left: 8px;
+  font-size: 13px;
+  overflow: hidden;
+  text-align: center;
+  display: inline;
 }
 .pic-card .top-pic .fstbox .fstbox-bottom-f {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/fstbox-bottom-f.jpg");
+  background-size: cover;
   float: left;
   margin-right: 20px;
 }
 .pic-card .top-pic .fstbox .fstbox-bottom-s {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/fstbox-bottom-s.jpg");
+  background-size:cover;
   float: left;
 }
 .pic-card .top-pic .scdbox .scdbox-top {
   width: 200px;
   height: 110px;
   margin-bottom: 20px;
-  background: red;
+  background: url("../image/scdbox-top.jpg");
 }
 
 .pic-card .top-pic .scdbox .scdbox-mid {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/scdbox-mid.jpg");
   margin-bottom: 20px;
 }
 .pic-card .top-pic .scdbox .scdbox-bot {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/scdbox-bot.jpg");
 }
 .pic-card .top-pic .thrbox .thrbox-top {
   width: 200px;
   height: 110px;
   margin-bottom: 20px;
-  background: red;
+  background: url("../image/thr-top.gif");
+  background-size:cover;
 }
 .pic-card .top-pic .thrbox .thrbox-mid {
   width: 200px;
   height: 110px;
   margin-bottom: 20px;
-  background: red;
+  background: url("../image/thrbox-mid.jpg");
 }
 .pic-card .top-pic .thrbox .thrbox-bot {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/thrbox-bot.jpg");
 }
 .pic-card .top-pic .forbox .forbox-top {
   width: 420px;
   height: 110px;
   margin-bottom: 20px;
-  background: red;
+  background: url("../image/forbox-top.jpg");
 }
 .pic-card .top-pic .forbox .forbox-left {
   width: 200px;
@@ -308,18 +348,18 @@ t;}
 .pic-card .top-pic .forbox .forbox-left-top {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/forbox-left-top.jpg");
   margin-bottom: 20px;
 }
 .pic-card .top-pic .forbox .forbox-left-bot {
   width: 200px;
   height: 110px;
-  background: red;
+  background: url("../image/forbox-left-bot.jpg");
 }
 .pic-card .top-pic .forbox .forbox-right {
   width: 200px;
   height: 240px;
-  background: red;
+  background: url("../image/forbox-right.jpg");
   float: left;
 }
 .scd .scd-card {
