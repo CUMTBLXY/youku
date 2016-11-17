@@ -372,7 +372,6 @@ t;}
 }
 .scd .scd-card .stitle {
   height: 36px;
-  background: red;
   margin-bottom: 20px;
 }
 .scd .scd-card .scd-card-pic {
@@ -382,13 +381,11 @@ t;}
 .scd .scd-card .scd-card-pic .scpf {
   width: 200px;
   height: 154px;
-  background: red;
   margin-right: 20px;
   float: left;
 }
 .scd .scd-card .scd-card-pic .scps {
   width: 200px;
   height: 154px;
-  background: red;
   float: left;
 }

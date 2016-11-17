@@ -1,0 +1,243 @@
+.November{
+    display: inline-block;
+    margin: -5px 10px 14px 2px;
+    height: 30px;
+    vertical-align: middle;
+    font-size:26px;
+}
+.November-parttwo{
+    display:inline-block;
+    padding:0 10px 0 10px;
+}
+.scpf-one{
+    width: 200px;
+    height: 110px;
+}
+.scpf-one-picture{
+     position: absolute;
+     text-decoration: none;
+     width: 200px;
+     background-image: url("../image/second-one.jpg");
+     height: 110px;
+     background-size: cover;
+     display: block;
+ }
+.scpf-one-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color: #FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scpf-one-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    position:relative;
+    font-size:12px;
+    color: #000000;
+}
+.scpf-one-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+    color: #000000;
+}
+.scpf-two{
+    width: 200px;
+    height: 110px;
+    color: #000000;
+}
+.scpf-two-picture{
+    position: absolute;
+    text-decoration: none;
+    width: 200px;
+    background-image: url("../image/second-two.jpg");
+    height: 110px;
+    background-size: cover;
+}
+.scpf-two-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color: #FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scpf-two-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    position:relative;
+    font-size:12px;
+    color: #000000;
+}
+.scpf-two-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+    color: #000000;
+}
+.scpf-three{
+    width: 200px;
+    height: 110px;
+}
+.scpf-three-picture{
+    position: absolute;
+    text-decoration: none;
+    width: 200px;
+    background-image: url("../image/second-three.jpg");
+    height: 110px;
+    background-size: cover;
+}
+.scpf-three-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color: #FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scpf-three-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    position:relative;
+    font-size:12px;
+    color: #000000;
+}
+.scpf-three-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+}
+.scpf-four{
+    width: 200px;
+    height: 110px;
+}
+.scpf-four-picture{
+    position: absolute;
+    text-decoration: none;
+    width: 200px;
+    background-image: url("../image/second-four.jpg");
+    height: 110px;
+    background-size: cover;
+}
+.scpf-four-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color: #FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scpf-four-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    position:relative;
+    font-size:12px;
+    color: #000000;
+}
+.scpf-four-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+}
+.scpf-five{
+     width:200px;
+     height: 110px;
+ }
+.scpf-five-picture{
+    position: absolute;
+    text-decoration: none;
+    width: 200px;
+    background-image: url("../image/second-five.jpg");
+    height: 110px;
+    background-size:cover ;
+}
+.scpf-five-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color:#FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scpf-five-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    color: #000000;
+    position:relative;
+    font-size:12px
+}
+.scpf-five-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+}
+
+
+.scps-picture{
+    position: absolute;
+    text-decoration: none;
+    width: 200px;
+    background-image: url("../image/second-six.jpg");
+    height: 110px;
+    background-size:cover ;
+}
+.scps-textone{
+    white-space: nowrap;
+    position: relative;
+    bottom:-80px;
+    opacity:0.5;
+    float:right;
+    color:#FFF;
+    background: #000;
+    z-index: 0;
+    font-size: 13px;
+    padding:2px 5px 2px 5px;
+    margin-right: 12px;
+}
+.scps-texttwo{
+    display: block;
+    margin-top: 0px;
+    padding: 120px 0 7px;
+    height: 44px;
+    color: #000000;
+    position:relative;
+    font-size:12px;
+}
+.scps-texttwo-top{
+    font-size:14px;
+    padding:0 0 3px 0;
+    color: #000000;
+}
+
