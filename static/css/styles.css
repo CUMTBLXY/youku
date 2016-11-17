@@ -8,7 +8,7 @@
 	width: 100%;
 	padding-top: 21px;
 	background-color: #FFFFFF;
-	min-width: 1450px;
+	min-width: 1550px;
 }
 
 .header .header_left {
@@ -218,26 +218,26 @@ t;}
 .pic-card .top-pic .fstbox {
 	width: 420px;
 	height: 370px;
-  display: inline-block;
-	margin-right: 15px;
+  float: left;
+	margin-right: 20px;
   margin-top: 0;
 }
 .pic-card .top-pic .scdbox {
   width: 200px;
   height: 370px;
-  display: inline-block;
-	margin-right: 15px;
+  float: left;
+	margin-right: 20px;
 }
 .pic-card .top-pic .thrbox {
   width: 200px;
   height: 370px;
-  display: inline-block;
-	margin-right: 12px;
+  float: left;
+	margin-right: 20px;
 }
 .pic-card .top-pic .forbox {
 	width: 420px;
 	height: 370px;
-  display: inline-block;
+  float: left;
 }
 .pic-card .top-pic .fstbox .fstbox-top {
   width: 420px;
@@ -249,14 +249,14 @@ t;}
   width: 200px;
   height: 110px;
   background: red;
-  display: inline-block;
-  margin-right: 14px;
+  float: left;
+  margin-right: 20px;
 }
 .pic-card .top-pic .fstbox .fstbox-bottom-s {
   width: 200px;
   height: 110px;
   background: red;
-  display: inline-block;
+  float: left;
 }
 .pic-card .top-pic .scdbox .scdbox-top {
   width: 200px;
@@ -302,8 +302,8 @@ t;}
 .pic-card .top-pic .forbox .forbox-left {
   width: 200px;
   height: 240px;
-  margin-right: 14px;
-  display: inline-block;
+  margin-right: 20px;
+  float: left;
 }
 .pic-card .top-pic .forbox .forbox-left-top {
   width: 200px;
@@ -320,7 +320,7 @@ t;}
   width: 200px;
   height: 240px;
   background: red;
-  display: inline-block;
+  float: left;
 }
 .scd .scd-card {
 	height: 210px;
@@ -343,12 +343,12 @@ t;}
   width: 200px;
   height: 154px;
   background: red;
-  margin-right: 14px;
-  display: inline-block;
+  margin-right: 20px;
+  float: left;
 }
 .scd .scd-card .scd-card-pic .scps {
   width: 200px;
   height: 154px;
   background: red;
-  display: inline-block;
+  float: left;
 }
