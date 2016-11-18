@@ -3,6 +3,10 @@
 	background-color: #f1f2f3;
 }
 
+a{
+	text-decoration: none;
+}
+
 .header {
 	height: 105px;
 	width: 100%;
@@ -217,7 +221,6 @@ t;}
 	height: 370px;
 	background: #ffffff;
     box-shadow: 0 0 8px 1px #e4e5e6;
-    text-shadow:1px 0 0 #ffffff;
 }
 .pic-card .top-pic .fstbox {
 	width: 420px;
