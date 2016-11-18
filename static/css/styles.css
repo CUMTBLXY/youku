@@ -3,9 +3,6 @@
 	background-color: #f1f2f3;
 }
 
-a {
-  text-decoration: none;
-}
 .header {
 	height: 105px;
 	width: 100%;
@@ -27,11 +24,12 @@ a {
 	margin-left: 60px;
 }
 .header .header_center {
-	width: 370px;
-	height: 55px;
-	margin-right: 20px;
-	margin-left: 30px;
-	display: inline-block;
+    float: left;
+    margin-right: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 1px;
+    border-color:#2fb3ff;
 }
 .header .header_center .nav_center {
 	position: relative;
@@ -53,6 +51,7 @@ a:hover {
 	display: block;
 	text-decoration: none;
 	color: #2fb3ff;
+    margin-right: -1px;
 }
 
 .header .header_center .nav_center .ele a {
@@ -91,7 +90,7 @@ a:hover {
 .header .header_center_msg .login .login-icon {
 	background: url("../image/icon.png");
 	width: 17px;
-    height: 16px;
+    height: 17px;
     margin-right: 6px;
     display: inline-block;
 }
@@ -107,10 +106,11 @@ a:hover {
 	background-position: -58px 0px;
 	height: 7px;
     width: 12px;
+    margin-bottom: 3px;
 }
 .header .header_center_msg .login .mail-icon {
 	background-position: -20px 0px;
-	height: 16px;
+	height: 17px;
     width: 17px;
 }
 .header .header_center_msg .login .up-icon {
@@ -216,7 +216,8 @@ t;}
 	width: 1300px;
 	height: 370px;
 	background: #ffffff;
-  box-shadow: 0 0 8px 1px #e4e5e6;
+    box-shadow: 0 0 8px 1px #e4e5e6;
+    text-shadow:1px 0 0 #ffffff;
 }
 .pic-card .top-pic .fstbox {
 	width: 420px;
@@ -264,6 +265,7 @@ t;}
   font-size: 13px;
   overflow: hidden;
   padding-left: 8px;
+
 }
 .pic-font {
   position: relative;
@@ -272,18 +274,22 @@ t;}
   font-size: 13px;
   overflow: hidden;
   text-align: center;
-  padding-left: 8px;
+  margin-left: 8px;
   display: inline;
+  padding:2px ;
+  background-color: rgba(20,20,20,0.3);
 }
 .pic-font-t {
   position: relative;
   top: 85px;
   color: #ffffff;
-  padding-left: 8px;
+  margin-left: 8px;
+  padding:6px 4px 6px 4px;
   font-size: 13px;
   overflow: hidden;
   text-align: center;
   display: inline;
+  background-color: rgba(20,20,20,0.3);
 }
 .pic-card .top-pic .fstbox .fstbox-bottom-f {
   width: 200px;
@@ -376,6 +382,7 @@ t;}
 .scd .scd-card .stitle {
   height: 36px;
   margin-bottom: 20px;
+  border-bottom: 1px solid #e3e7e8;
 }
 .scd .scd-card .scd-card-pic {
   height: 154px;
