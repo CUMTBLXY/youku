@@ -3,6 +3,9 @@
 	background-color: #f1f2f3;
 }
 
+a {
+  text-decoration: none;
+}
 .header {
 	height: 105px;
 	width: 100%;
